@@ -8,7 +8,7 @@ Goals:
 
 
 1.   Derive novel insights from this comprehensive dataset on what factors, both direct (such as rideshare company, distance, and time) and indirect (such as preciptation and temperature), impact the price of a given ride (regressional analysis).
-2.   Determine if we can construct a model that classifies rides as either Uber or Lyft (classification analysis)?
+2.   Determine if we can construct a model that classifies rides as either Uber or Lyft (classification analysis).
 3.   Use our model results to paint a multi-dimensional picture of the ridesharing business landscape.
 
 
